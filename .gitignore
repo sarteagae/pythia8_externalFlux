@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+lib/
+tmp/
+
+# Generated/configuration files
+*.o
+*.a
+*.so
+*.la
+*.lo
+
+# Local/editor files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Keep the custom Pb flux table
+!examples/data/
+!examples/data/pb_flux/
+!examples/data/pb_flux/pb_xgamma_spline.dat
