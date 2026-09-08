@@ -65,9 +65,9 @@ These files should be applied to a compatible **Pythia 8.317** installation.
 The `examples/` directory contains the relevant example programs:
 
 * `main01.cc`
-* `test03.cc`
+* `test03.cc` JPsi->mumu using vmd model
 
-The `test03.cc` example is included to demonstrate the external photon-flux implementation.
+The `main01.cc` example is included to demonstrate the external photon-flux implementation.
 
 ## Requirements
 
